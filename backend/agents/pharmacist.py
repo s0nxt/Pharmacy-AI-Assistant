@@ -33,7 +33,7 @@ tools = [check_inventory, check_customer_history, place_order]
 tool_node = ToolNode(tools)
 
 model = ChatGoogleGenerativeAI(
-    model="models/gemini-flash-latest", 
+    model="models/gemini-flash-lite-latest", 
     google_api_key=os.getenv("GOOGLE_API_KEY"),
     temperature=0
 )

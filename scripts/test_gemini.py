@@ -6,7 +6,7 @@ from langchain_core.messages import HumanMessage
 load_dotenv(dotenv_path='backend/.env')
 
 try:
-    model = ChatGoogleGenerativeAI(model="gemini-1.5-flash")
+    model = ChatGoogleGenerativeAI(model="models/gemini-flash-latest")
     response = model.invoke([HumanMessage(content="Explain 1+1")])
     print("Gemini Response:", response.content)
 except Exception as e:
