@@ -84,10 +84,10 @@ if __name__ == "__main__":
     base_dir = os.path.join(os.path.dirname(__file__), "..", "data")
     os.makedirs(base_dir, exist_ok=True)
     
-    meds_df = generate_medicines(100)
+    meds_df = generate_medicines(300)
     meds_df.to_csv(os.path.join(base_dir, "medicine_master.csv"), index=False)
     
-    orders_df = generate_orders(meds_df, 100)
+    orders_df = generate_orders(meds_df, 301)
     orders_df.to_csv(os.path.join(base_dir, "order_history.csv"), index=False)
     
-    print(f"Generated 100 rows for medicine_master.csv and order_history.csv in {base_dir}")
+    print(f"Generated {len(meds_df)} rows for medicine_master.csv and {len(orders_df)} rows for order_history.csv in {base_dir}")

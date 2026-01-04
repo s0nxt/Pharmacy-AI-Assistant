@@ -1,102 +1,302 @@
 order_id,customer_id,customer_name,customer_phone,medicine_name,quantity,dosage_frequency,last_purchase_date
-ORD001,C005,Charlie Davis,1444333222,Glyburide,50,1 per day,2025-11-13
-ORD002,C004,Alice Brown,1555666777,Tamsulosin,46,2 per day,2025-11-25
-ORD003,C001,John Doe,1234567890,Tolterodine,46,1 every 8 hours,2025-11-19
-ORD004,C010,Henry Ford,1000111222,Triamterene,56,As needed,2025-11-22
-ORD005,C005,Charlie Davis,1444333222,Pantoprazole,19,1 every 8 hours,2025-11-27
-ORD006,C007,Eva Green,1777888999,Potassium Chloride,10,1 per day,2025-11-14
-ORD007,C009,Grace Lee,1999000111,Paracetamol,13,1 per day,2025-11-16
-ORD008,C002,Jane Smith,1987654321,Glipizide,14,1 every 8 hours,2025-12-03
-ORD009,C005,Charlie Davis,1444333222,Escitalopram,18,1 per day,2025-12-24
-ORD010,C001,John Doe,1234567890,Levofloxacin,13,1 per day,2025-12-15
-ORD011,C003,Bob Wilson,1122334455,Montelukast,50,2 per day,2025-11-25
-ORD012,C006,David Miller,1666777888,Pioglitazone,59,As needed,2025-12-02
-ORD013,C006,David Miller,1666777888,Ibuprofen,30,2 per day,2025-12-02
-ORD014,C009,Grace Lee,1999000111,Tamoxifen,11,As needed,2025-11-11
-ORD015,C004,Alice Brown,1555666777,Cyclobenzaprine,50,As needed,2025-12-21
-ORD016,C002,Jane Smith,1987654321,Potassium Chloride,21,1 per day,2025-12-25
-ORD017,C004,Alice Brown,1555666777,Clopidogrel,18,1 every 8 hours,2025-12-10
-ORD018,C008,Frank White,1888999000,Valsartan,57,1 per day,2025-11-26
-ORD019,C010,Henry Ford,1000111222,Amlodipine,48,1 per day,2025-11-15
-ORD020,C008,Frank White,1888999000,Paracetamol,52,1 per day,2025-12-14
-ORD021,C001,John Doe,1234567890,Spironolactone,16,As needed,2025-12-18
-ORD022,C002,Jane Smith,1987654321,Glipizide,40,As needed,2025-12-30
-ORD023,C002,Jane Smith,1987654321,Omeprazole,17,2 per day,2025-11-06
-ORD024,C007,Eva Green,1777888999,Baclofen,53,As needed,2025-11-18
-ORD025,C004,Alice Brown,1555666777,Tamoxifen,46,1 per day,2025-11-17
-ORD026,C001,John Doe,1234567890,Valproic Acid,55,1 per day,2025-11-22
-ORD027,C004,Alice Brown,1555666777,Montelukast,57,1 per day,2025-12-17
-ORD028,C005,Charlie Davis,1444333222,Azithromycin,20,1 per day,2025-11-22
-ORD029,C004,Alice Brown,1555666777,Tolterodine,13,1 every 8 hours,2026-01-01
-ORD030,C010,Henry Ford,1000111222,Tramadol,37,1 per day,2025-12-13
-ORD031,C001,John Doe,1234567890,Spironolactone,16,As needed,2025-12-04
-ORD032,C003,Bob Wilson,1122334455,Valsartan,57,As needed,2026-01-03
-ORD033,C003,Bob Wilson,1122334455,Fluticasone,42,1 per day,2025-12-05
-ORD034,C008,Frank White,1888999000,Theophylline,28,1 every 8 hours,2025-12-03
-ORD035,C008,Frank White,1888999000,Nifedipine,60,As needed,2025-11-20
-ORD036,C004,Alice Brown,1555666777,Triamcinolone,26,1 every 8 hours,2025-11-07
-ORD037,C009,Grace Lee,1999000111,Venlafaxine,53,2 per day,2025-11-24
-ORD038,C007,Eva Green,1777888999,Rosuvastatin,58,2 per day,2025-12-15
-ORD039,C004,Alice Brown,1555666777,Losartan,18,1 per day,2025-12-22
-ORD040,C010,Henry Ford,1000111222,Celecoxib,26,2 per day,2025-12-30
-ORD041,C003,Bob Wilson,1122334455,Cyclobenzaprine,17,1 per day,2025-12-31
-ORD042,C008,Frank White,1888999000,Nifedipine,42,As needed,2025-11-28
-ORD043,C002,Jane Smith,1987654321,Carvedilol,10,1 per day,2025-12-21
-ORD044,C006,David Miller,1666777888,Clonazepam,35,As needed,2025-12-01
-ORD045,C008,Frank White,1888999000,Terazosin,49,As needed,2025-11-24
-ORD046,C004,Alice Brown,1555666777,Zolpidem,49,1 per day,2025-11-17
-ORD047,C004,Alice Brown,1555666777,Nystatin,17,As needed,2025-12-09
-ORD048,C002,Jane Smith,1987654321,Carvedilol,57,As needed,2025-12-20
-ORD049,C006,David Miller,1666777888,Metoprolol,36,1 per day,2025-11-29
-ORD050,C006,David Miller,1666777888,Celecoxib,31,As needed,2025-12-23
-ORD051,C001,John Doe,1234567890,Atorvastatin,46,1 every 8 hours,2025-11-05
-ORD052,C004,Alice Brown,1555666777,Isosorbide Mononitrate,35,1 per day,2025-12-04
-ORD053,C001,John Doe,1234567890,Zolpidem,20,1 every 8 hours,2025-11-18
-ORD054,C005,Charlie Davis,1444333222,Amlodipine,34,2 per day,2026-01-02
-ORD055,C001,John Doe,1234567890,Fluoxetine,51,1 per day,2025-12-27
-ORD056,C006,David Miller,1666777888,Sumatriptan,26,As needed,2025-12-13
-ORD057,C008,Frank White,1888999000,Triamcinolone,41,1 per day,2025-11-25
-ORD058,C001,John Doe,1234567890,Buspirone,44,As needed,2025-11-10
-ORD059,C010,Henry Ford,1000111222,Meloxicam,41,1 per day,2025-11-05
-ORD060,C006,David Miller,1666777888,Digoxin,48,1 per day,2025-11-28
-ORD061,C001,John Doe,1234567890,Hydralazine,42,1 every 8 hours,2025-12-19
-ORD062,C006,David Miller,1666777888,Albuterol,10,1 per day,2025-12-24
-ORD063,C003,Bob Wilson,1122334455,Digoxin,37,1 per day,2025-12-29
-ORD064,C010,Henry Ford,1000111222,Atorvastatin,25,As needed,2025-11-15
-ORD065,C005,Charlie Davis,1444333222,Duloxetine,14,2 per day,2025-12-17
-ORD066,C008,Frank White,1888999000,Tolterodine,14,As needed,2025-12-21
-ORD067,C008,Frank White,1888999000,Glyburide,28,1 every 8 hours,2025-12-10
-ORD068,C005,Charlie Davis,1444333222,Clopidogrel,40,As needed,2026-01-01
-ORD069,C002,Jane Smith,1987654321,Buspirone,57,1 per day,2025-12-31
-ORD070,C009,Grace Lee,1999000111,Ezetimibe,48,As needed,2025-11-27
-ORD071,C008,Frank White,1888999000,Cetirizine,58,1 per day,2025-12-09
-ORD072,C010,Henry Ford,1000111222,Latanoprost,12,As needed,2025-12-06
-ORD073,C009,Grace Lee,1999000111,Cetirizine,21,As needed,2025-12-14
-ORD074,C007,Eva Green,1777888999,Clonazepam,12,2 per day,2025-12-09
-ORD075,C002,Jane Smith,1987654321,Pregabalin,39,2 per day,2025-12-27
-ORD076,C008,Frank White,1888999000,Verapamil,59,1 per day,2025-12-13
-ORD077,C008,Frank White,1888999000,Furosemide,55,1 per day,2025-12-21
-ORD078,C009,Grace Lee,1999000111,Triamterene,30,1 per day,2025-12-08
-ORD079,C005,Charlie Davis,1444333222,Glipizide,32,1 per day,2025-11-28
-ORD080,C008,Frank White,1888999000,Ezetimibe,31,2 per day,2025-11-18
-ORD081,C006,David Miller,1666777888,Nitrofurantoin,15,1 per day,2025-12-06
-ORD082,C005,Charlie Davis,1444333222,Losartan,19,1 every 8 hours,2025-11-06
-ORD083,C010,Henry Ford,1000111222,Fenofibrate,48,1 per day,2025-11-29
-ORD084,C004,Alice Brown,1555666777,Omeprazole,50,2 per day,2025-12-07
-ORD085,C007,Eva Green,1777888999,Promethazine,15,2 per day,2025-11-17
-ORD086,C006,David Miller,1666777888,Venlafaxine,13,1 per day,2025-11-15
-ORD087,C008,Frank White,1888999000,Rizatriptan,50,2 per day,2026-01-01
-ORD088,C005,Charlie Davis,1444333222,Carvedilol,19,1 every 8 hours,2025-11-14
-ORD089,C002,Jane Smith,1987654321,Simvastatin,59,As needed,2025-11-10
-ORD090,C001,John Doe,1234567890,Olanzapine,57,As needed,2025-12-13
-ORD091,C001,John Doe,1234567890,Omeprazole,12,2 per day,2025-12-18
-ORD092,C006,David Miller,1666777888,Naproxen,16,1 per day,2025-11-20
-ORD093,C004,Alice Brown,1555666777,Naproxen,30,1 every 8 hours,2025-12-21
-ORD094,C005,Charlie Davis,1444333222,Meloxicam,23,1 per day,2025-12-12
-ORD095,C009,Grace Lee,1999000111,Tamoxifen,40,1 per day,2025-11-17
-ORD096,C001,John Doe,1234567890,Trazodone,38,1 per day,2025-11-23
-ORD097,C005,Charlie Davis,1444333222,Nitrofurantoin,13,1 per day,2025-12-09
-ORD098,C005,Charlie Davis,1444333222,Quetiapine,21,2 per day,2025-12-29
-ORD099,C009,Grace Lee,1999000111,Cephalexin,50,1 every 8 hours,2025-11-27
-ORD100,C008,Frank White,1888999000,Oxybutynin,36,1 per day,2025-11-22
-ORD101,C004,Alice Brown,1555666777,Losartan,200,3 tablets per day,2026-01-03
+ORD001,C006,David Miller,+1666777888,Medicine_193,57,2 per day,2025-11-17
+ORD002,C003,Bob Wilson,+1122334455,Medicine_222,20,1 per day,2025-12-26
+ORD003,C003,Bob Wilson,+1122334455,Medicine_287,41,As needed,2025-11-07
+ORD004,C004,Alice Brown,+1555666777,Medicine_276,18,1 every 8 hours,2025-11-07
+ORD005,C002,Jane Smith,+1987654321,Enalapril,24,1 every 8 hours,2025-12-13
+ORD006,C002,Jane Smith,+1987654321,Verapamil,44,2 per day,2025-12-28
+ORD007,C007,Eva Green,+1777888999,Medicine_247,37,1 per day,2025-12-09
+ORD008,C006,David Miller,+1666777888,Ibuprofen,55,1 per day,2025-11-15
+ORD009,C004,Alice Brown,+1555666777,Medicine_299,51,As needed,2025-12-26
+ORD010,C004,Alice Brown,+1555666777,Medicine_123,55,2 per day,2026-01-02
+ORD011,C001,John Doe,+1234567890,Medicine_120,53,1 every 8 hours,2025-12-05
+ORD012,C009,Grace Lee,+1999000111,Clonazepam,10,1 every 8 hours,2025-12-14
+ORD013,C005,Charlie Davis,+1444333222,Medicine_207,59,1 per day,2025-11-30
+ORD014,C010,Henry Ford,+1000111222,Hydrochlorothiazide,13,1 every 8 hours,2025-12-31
+ORD015,C005,Charlie Davis,+1444333222,Medicine_181,22,As needed,2025-12-09
+ORD016,C003,Bob Wilson,+1122334455,Doxycycline,57,2 per day,2025-11-09
+ORD017,C007,Eva Green,+1777888999,Clopidogrel,47,1 per day,2025-12-24
+ORD018,C003,Bob Wilson,+1122334455,Medicine_193,23,1 every 8 hours,2025-11-21
+ORD019,C006,David Miller,+1666777888,Medicine_262,27,2 per day,2025-12-18
+ORD020,C009,Grace Lee,+1999000111,Medicine_193,24,2 per day,2025-11-26
+ORD021,C003,Bob Wilson,+1122334455,Levothyroxine,48,1 per day,2025-11-09
+ORD022,C005,Charlie Davis,+1444333222,Medicine_146,48,1 every 8 hours,2026-01-01
+ORD023,C003,Bob Wilson,+1122334455,Medicine_213,26,1 per day,2025-12-22
+ORD024,C009,Grace Lee,+1999000111,Warfarin,29,As needed,2025-11-29
+ORD025,C010,Henry Ford,+1000111222,Medicine_177,38,1 every 8 hours,2025-11-13
+ORD026,C004,Alice Brown,+1555666777,Medicine_179,14,1 every 8 hours,2025-12-03
+ORD027,C004,Alice Brown,+1555666777,Medicine_164,18,2 per day,2025-11-18
+ORD028,C009,Grace Lee,+1999000111,Citalopram,52,1 every 8 hours,2025-11-25
+ORD029,C001,John Doe,+1234567890,Medicine_110,55,As needed,2025-11-17
+ORD030,C008,Frank White,+1888999000,Medicine_183,13,2 per day,2025-11-14
+ORD031,C009,Grace Lee,+1999000111,Famotidine,56,As needed,2025-12-07
+ORD032,C010,Henry Ford,+1000111222,Medicine_240,16,2 per day,2025-11-05
+ORD033,C007,Eva Green,+1777888999,Mupirocin,16,1 every 8 hours,2025-12-25
+ORD034,C005,Charlie Davis,+1444333222,Allopurinol,10,1 per day,2025-11-10
+ORD035,C007,Eva Green,+1777888999,Amlodipine,44,1 every 8 hours,2025-11-30
+ORD036,C003,Bob Wilson,+1122334455,Medicine_158,33,1 per day,2025-12-21
+ORD037,C002,Jane Smith,+1987654321,Medicine_110,42,1 per day,2025-11-15
+ORD038,C007,Eva Green,+1777888999,Enalapril,18,1 every 8 hours,2025-11-06
+ORD039,C007,Eva Green,+1777888999,Medicine_220,10,2 per day,2025-12-09
+ORD040,C004,Alice Brown,+1555666777,Medicine_222,49,1 per day,2025-11-14
+ORD041,C004,Alice Brown,+1555666777,Medicine_250,31,1 per day,2025-12-27
+ORD042,C007,Eva Green,+1777888999,Medicine_232,21,As needed,2025-11-17
+ORD043,C006,David Miller,+1666777888,Medicine_300,55,1 per day,2025-12-10
+ORD044,C001,John Doe,+1234567890,Medicine_272,44,As needed,2025-12-16
+ORD045,C009,Grace Lee,+1999000111,Potassium Chloride,30,2 per day,2025-11-18
+ORD046,C006,David Miller,+1666777888,Medicine_114,53,1 per day,2025-12-28
+ORD047,C006,David Miller,+1666777888,Medicine_240,16,2 per day,2025-12-05
+ORD048,C003,Bob Wilson,+1122334455,Medicine_182,16,2 per day,2025-12-10
+ORD049,C005,Charlie Davis,+1444333222,Latanoprost,38,As needed,2025-11-22
+ORD050,C005,Charlie Davis,+1444333222,Medicine_169,57,2 per day,2025-12-23
+ORD051,C004,Alice Brown,+1555666777,Medicine_194,21,2 per day,2025-11-09
+ORD052,C001,John Doe,+1234567890,Medicine_254,39,2 per day,2025-12-22
+ORD053,C008,Frank White,+1888999000,Medicine_266,53,1 per day,2026-01-01
+ORD054,C007,Eva Green,+1777888999,Medicine_223,51,1 every 8 hours,2025-11-21
+ORD055,C003,Bob Wilson,+1122334455,Medicine_288,36,As needed,2025-11-13
+ORD056,C008,Frank White,+1888999000,Medicine_229,23,1 every 8 hours,2025-12-17
+ORD057,C004,Alice Brown,+1555666777,Medicine_127,46,As needed,2025-12-31
+ORD058,C003,Bob Wilson,+1122334455,Losartan,43,1 every 8 hours,2025-12-14
+ORD059,C004,Alice Brown,+1555666777,Medicine_140,19,1 per day,2025-11-20
+ORD060,C003,Bob Wilson,+1122334455,Medicine_208,42,1 per day,2025-12-02
+ORD061,C002,Jane Smith,+1987654321,Medicine_238,43,As needed,2025-11-14
+ORD062,C009,Grace Lee,+1999000111,Medicine_256,41,2 per day,2025-12-26
+ORD063,C007,Eva Green,+1777888999,Ezetimibe,47,As needed,2025-12-03
+ORD064,C004,Alice Brown,+1555666777,Medicine_111,39,1 per day,2025-12-13
+ORD065,C007,Eva Green,+1777888999,Medicine_240,55,As needed,2025-12-28
+ORD066,C004,Alice Brown,+1555666777,Medicine_196,52,As needed,2025-12-18
+ORD067,C001,John Doe,+1234567890,Glyburide,46,As needed,2025-12-30
+ORD068,C003,Bob Wilson,+1122334455,Medicine_115,29,2 per day,2025-12-24
+ORD069,C009,Grace Lee,+1999000111,Medicine_187,43,As needed,2025-11-26
+ORD070,C006,David Miller,+1666777888,Medicine_210,37,1 per day,2025-12-16
+ORD071,C010,Henry Ford,+1000111222,Sumatriptan,20,2 per day,2025-12-24
+ORD072,C004,Alice Brown,+1555666777,Glyburide,40,1 every 8 hours,2025-12-20
+ORD073,C008,Frank White,+1888999000,Medicine_153,43,1 per day,2025-11-07
+ORD074,C004,Alice Brown,+1555666777,Doxycycline,13,As needed,2025-12-22
+ORD075,C001,John Doe,+1234567890,Levofloxacin,48,As needed,2025-12-13
+ORD076,C008,Frank White,+1888999000,Medicine_154,59,As needed,2025-12-28
+ORD077,C003,Bob Wilson,+1122334455,Medicine_153,41,2 per day,2025-11-16
+ORD078,C002,Jane Smith,+1987654321,Medicine_283,31,1 per day,2025-11-17
+ORD079,C003,Bob Wilson,+1122334455,Medicine_159,56,As needed,2025-12-11
+ORD080,C003,Bob Wilson,+1122334455,Medicine_260,17,As needed,2025-12-23
+ORD081,C004,Alice Brown,+1555666777,Sildenafil,33,2 per day,2025-12-05
+ORD082,C005,Charlie Davis,+1444333222,Medicine_133,54,As needed,2025-12-10
+ORD083,C008,Frank White,+1888999000,Metformin,41,1 per day,2025-12-01
+ORD084,C005,Charlie Davis,+1444333222,Medicine_183,54,As needed,2025-12-07
+ORD085,C002,Jane Smith,+1987654321,Medicine_132,35,1 per day,2025-12-14
+ORD086,C008,Frank White,+1888999000,Medicine_129,53,1 every 8 hours,2025-12-15
+ORD087,C006,David Miller,+1666777888,Medicine_193,26,As needed,2025-11-15
+ORD088,C004,Alice Brown,+1555666777,Medicine_263,24,2 per day,2025-11-15
+ORD089,C001,John Doe,+1234567890,Medicine_115,16,1 per day,2026-01-03
+ORD090,C001,John Doe,+1234567890,Medicine_296,21,2 per day,2025-12-05
+ORD091,C009,Grace Lee,+1999000111,Gabapentin,40,As needed,2025-11-17
+ORD092,C007,Eva Green,+1777888999,Naproxen,43,As needed,2025-12-20
+ORD093,C003,Bob Wilson,+1122334455,Medicine_253,43,1 per day,2025-11-11
+ORD094,C003,Bob Wilson,+1122334455,Medicine_255,56,1 per day,2025-12-10
+ORD095,C008,Frank White,+1888999000,Medicine_167,42,1 every 8 hours,2025-12-28
+ORD096,C008,Frank White,+1888999000,Medicine_213,17,1 every 8 hours,2025-12-25
+ORD097,C010,Henry Ford,+1000111222,Citalopram,41,1 every 8 hours,2025-12-22
+ORD098,C007,Eva Green,+1777888999,Medicine_184,16,1 every 8 hours,2026-01-02
+ORD099,C003,Bob Wilson,+1122334455,Medicine_160,54,1 every 8 hours,2025-12-22
+ORD100,C005,Charlie Davis,+1444333222,Medicine_241,57,1 per day,2025-12-19
+ORD101,C010,Henry Ford,+1000111222,Carvedilol,26,As needed,2025-11-10
+ORD102,C004,Alice Brown,+1555666777,Medicine_190,23,As needed,2025-12-06
+ORD103,C002,Jane Smith,+1987654321,Glipizide,50,2 per day,2025-12-13
+ORD104,C010,Henry Ford,+1000111222,Medicine_181,36,1 every 8 hours,2025-11-16
+ORD105,C009,Grace Lee,+1999000111,Medicine_263,56,1 per day,2025-11-30
+ORD106,C010,Henry Ford,+1000111222,Medicine_123,46,As needed,2025-12-04
+ORD107,C002,Jane Smith,+1987654321,Medicine_173,33,As needed,2025-12-21
+ORD108,C002,Jane Smith,+1987654321,Medicine_206,31,As needed,2025-11-13
+ORD109,C006,David Miller,+1666777888,Medicine_216,46,1 every 8 hours,2025-11-18
+ORD110,C005,Charlie Davis,+1444333222,Medicine_219,39,As needed,2025-12-28
+ORD111,C004,Alice Brown,+1555666777,Medicine_190,13,As needed,2026-01-02
+ORD112,C005,Charlie Davis,+1444333222,Medicine_175,28,1 every 8 hours,2025-11-05
+ORD113,C008,Frank White,+1888999000,Aspirin,29,2 per day,2025-12-13
+ORD114,C008,Frank White,+1888999000,Topiramate,60,1 every 8 hours,2025-12-02
+ORD115,C004,Alice Brown,+1555666777,Medicine_226,57,As needed,2025-12-12
+ORD116,C003,Bob Wilson,+1122334455,Gabapentin,56,1 per day,2025-11-05
+ORD117,C003,Bob Wilson,+1122334455,Medicine_291,23,1 every 8 hours,2025-11-26
+ORD118,C010,Henry Ford,+1000111222,Medicine_207,42,1 every 8 hours,2025-11-22
+ORD119,C001,John Doe,+1234567890,Medicine_170,18,1 per day,2025-12-03
+ORD120,C006,David Miller,+1666777888,Medicine_152,55,1 every 8 hours,2025-12-29
+ORD121,C006,David Miller,+1666777888,Medicine_202,38,1 every 8 hours,2025-12-05
+ORD122,C010,Henry Ford,+1000111222,Medicine_272,17,As needed,2025-11-14
+ORD123,C001,John Doe,+1234567890,Latanoprost,33,1 per day,2025-11-19
+ORD124,C002,Jane Smith,+1987654321,Medicine_152,11,1 every 8 hours,2025-11-24
+ORD125,C001,John Doe,+1234567890,Medicine_155,17,1 per day,2025-11-19
+ORD126,C004,Alice Brown,+1555666777,Medicine_245,47,1 per day,2025-12-25
+ORD127,C001,John Doe,+1234567890,Medicine_124,20,As needed,2025-11-05
+ORD128,C009,Grace Lee,+1999000111,Medicine_282,20,1 every 8 hours,2025-12-02
+ORD129,C004,Alice Brown,+1555666777,Medicine_256,42,1 every 8 hours,2025-12-26
+ORD130,C010,Henry Ford,+1000111222,Famotidine,37,1 per day,2025-11-17
+ORD131,C009,Grace Lee,+1999000111,Methylprednisolone,34,2 per day,2025-12-12
+ORD132,C005,Charlie Davis,+1444333222,Medicine_124,29,As needed,2025-12-26
+ORD133,C004,Alice Brown,+1555666777,Clonazepam,43,As needed,2025-11-17
+ORD134,C006,David Miller,+1666777888,Aspirin,13,As needed,2025-11-08
+ORD135,C001,John Doe,+1234567890,Nifedipine,22,1 per day,2025-12-18
+ORD136,C001,John Doe,+1234567890,Medicine_153,16,1 per day,2025-11-28
+ORD137,C006,David Miller,+1666777888,Escitalopram,33,2 per day,2025-11-09
+ORD138,C010,Henry Ford,+1000111222,Medicine_175,22,1 every 8 hours,2025-11-08
+ORD139,C007,Eva Green,+1777888999,Medicine_252,51,As needed,2025-12-29
+ORD140,C003,Bob Wilson,+1122334455,Amoxicillin,47,1 per day,2025-11-19
+ORD141,C002,Jane Smith,+1987654321,Alprazolam,56,As needed,2025-11-18
+ORD142,C007,Eva Green,+1777888999,Medicine_280,58,1 per day,2025-11-17
+ORD143,C008,Frank White,+1888999000,Enalapril,36,1 per day,2025-11-09
+ORD144,C005,Charlie Davis,+1444333222,Medicine_146,31,As needed,2025-12-21
+ORD145,C010,Henry Ford,+1000111222,Metoprolol,27,1 every 8 hours,2025-12-19
+ORD146,C009,Grace Lee,+1999000111,Warfarin,48,1 per day,2025-12-28
+ORD147,C007,Eva Green,+1777888999,Celecoxib,37,As needed,2025-12-02
+ORD148,C004,Alice Brown,+1555666777,Medicine_298,11,2 per day,2025-12-13
+ORD149,C006,David Miller,+1666777888,Triamcinolone,14,1 per day,2025-12-11
+ORD150,C010,Henry Ford,+1000111222,Medicine_266,30,1 per day,2025-11-16
+ORD151,C008,Frank White,+1888999000,Warfarin,29,1 every 8 hours,2025-12-17
+ORD152,C009,Grace Lee,+1999000111,Losartan,58,1 every 8 hours,2025-12-25
+ORD153,C006,David Miller,+1666777888,Fenofibrate,32,As needed,2025-12-02
+ORD154,C004,Alice Brown,+1555666777,Medicine_134,59,1 per day,2025-11-14
+ORD155,C002,Jane Smith,+1987654321,Baclofen,43,As needed,2025-12-17
+ORD156,C008,Frank White,+1888999000,Medicine_284,14,1 per day,2025-12-23
+ORD157,C006,David Miller,+1666777888,Medicine_130,12,As needed,2025-12-02
+ORD158,C007,Eva Green,+1777888999,Medicine_192,17,1 every 8 hours,2025-12-24
+ORD159,C008,Frank White,+1888999000,Medicine_251,23,1 per day,2025-11-10
+ORD160,C007,Eva Green,+1777888999,Medicine_139,18,As needed,2025-11-25
+ORD161,C006,David Miller,+1666777888,Medicine_255,36,As needed,2025-12-03
+ORD162,C005,Charlie Davis,+1444333222,Medicine_187,30,As needed,2025-11-25
+ORD163,C003,Bob Wilson,+1122334455,Medicine_218,38,1 every 8 hours,2025-12-02
+ORD164,C010,Henry Ford,+1000111222,Medicine_194,13,2 per day,2025-12-22
+ORD165,C004,Alice Brown,+1555666777,Medicine_225,52,As needed,2025-12-20
+ORD166,C004,Alice Brown,+1555666777,Medicine_123,49,1 every 8 hours,2025-12-25
+ORD167,C005,Charlie Davis,+1444333222,Medicine_146,17,1 every 8 hours,2025-12-09
+ORD168,C005,Charlie Davis,+1444333222,Medicine_154,15,2 per day,2026-01-01
+ORD169,C005,Charlie Davis,+1444333222,Medicine_217,21,As needed,2025-12-23
+ORD170,C009,Grace Lee,+1999000111,Medicine_137,12,1 per day,2025-11-11
+ORD171,C006,David Miller,+1666777888,Medicine_296,44,1 every 8 hours,2025-12-15
+ORD172,C004,Alice Brown,+1555666777,Medicine_204,32,2 per day,2025-11-15
+ORD173,C004,Alice Brown,+1555666777,Oxycodone,13,1 every 8 hours,2025-12-31
+ORD174,C001,John Doe,+1234567890,Medicine_169,35,1 every 8 hours,2025-11-28
+ORD175,C010,Henry Ford,+1000111222,Tizanidine,44,As needed,2025-12-22
+ORD176,C001,John Doe,+1234567890,Medicine_108,27,2 per day,2025-12-01
+ORD177,C010,Henry Ford,+1000111222,Medicine_106,26,1 every 8 hours,2025-12-07
+ORD178,C007,Eva Green,+1777888999,Medicine_296,42,1 per day,2025-12-03
+ORD179,C009,Grace Lee,+1999000111,Nifedipine,57,1 per day,2025-12-28
+ORD180,C009,Grace Lee,+1999000111,Simvastatin,33,As needed,2025-11-28
+ORD181,C001,John Doe,+1234567890,Medicine_205,27,2 per day,2025-12-23
+ORD182,C007,Eva Green,+1777888999,Medicine_203,13,1 per day,2025-11-14
+ORD183,C004,Alice Brown,+1555666777,Sumatriptan,20,2 per day,2025-11-26
+ORD184,C008,Frank White,+1888999000,Phenytoin,15,2 per day,2025-12-06
+ORD185,C009,Grace Lee,+1999000111,Medicine_182,33,2 per day,2025-12-30
+ORD186,C009,Grace Lee,+1999000111,Medicine_284,16,As needed,2025-12-07
+ORD187,C009,Grace Lee,+1999000111,Nitrofurantoin,30,As needed,2025-12-04
+ORD188,C008,Frank White,+1888999000,Medicine_113,27,As needed,2025-11-18
+ORD189,C004,Alice Brown,+1555666777,Medicine_121,35,1 per day,2025-12-01
+ORD190,C006,David Miller,+1666777888,Medicine_272,49,As needed,2025-11-19
+ORD191,C007,Eva Green,+1777888999,Medicine_160,18,1 per day,2025-12-23
+ORD192,C010,Henry Ford,+1000111222,Medicine_245,12,2 per day,2025-12-07
+ORD193,C006,David Miller,+1666777888,Amlodipine,57,1 per day,2025-12-12
+ORD194,C005,Charlie Davis,+1444333222,Potassium Chloride,27,2 per day,2025-12-05
+ORD195,C005,Charlie Davis,+1444333222,Medicine_298,18,2 per day,2025-11-28
+ORD196,C004,Alice Brown,+1555666777,Medicine_147,37,1 every 8 hours,2025-11-20
+ORD197,C005,Charlie Davis,+1444333222,Medicine_270,49,1 per day,2025-12-06
+ORD198,C004,Alice Brown,+1555666777,Medicine_191,40,2 per day,2025-11-11
+ORD199,C008,Frank White,+1888999000,Medicine_198,23,1 per day,2026-01-01
+ORD200,C005,Charlie Davis,+1444333222,Medicine_181,13,As needed,2025-11-27
+ORD201,C006,David Miller,+1666777888,Medicine_263,31,1 per day,2025-11-08
+ORD202,C001,John Doe,+1234567890,Medicine_187,38,2 per day,2025-12-31
+ORD203,C008,Frank White,+1888999000,Medicine_142,29,1 per day,2025-11-25
+ORD204,C005,Charlie Davis,+1444333222,Montelukast,29,1 every 8 hours,2025-12-17
+ORD205,C009,Grace Lee,+1999000111,Medicine_186,59,1 per day,2025-11-15
+ORD206,C004,Alice Brown,+1555666777,Medicine_134,30,As needed,2026-01-01
+ORD207,C009,Grace Lee,+1999000111,Medicine_173,48,1 every 8 hours,2025-11-20
+ORD208,C007,Eva Green,+1777888999,Medicine_183,21,1 per day,2025-11-22
+ORD209,C002,Jane Smith,+1987654321,Medicine_176,57,1 per day,2025-12-28
+ORD210,C004,Alice Brown,+1555666777,Medicine_289,37,1 every 8 hours,2025-12-07
+ORD211,C010,Henry Ford,+1000111222,Medicine_261,46,As needed,2025-12-26
+ORD212,C010,Henry Ford,+1000111222,Medicine_276,37,As needed,2025-12-08
+ORD213,C005,Charlie Davis,+1444333222,Medicine_237,60,1 per day,2025-11-27
+ORD214,C003,Bob Wilson,+1122334455,Medicine_242,23,2 per day,2025-11-18
+ORD215,C010,Henry Ford,+1000111222,Medicine_239,37,As needed,2025-11-26
+ORD216,C010,Henry Ford,+1000111222,Medicine_177,55,1 per day,2025-12-21
+ORD217,C006,David Miller,+1666777888,Hydralazine,41,1 per day,2026-01-01
+ORD218,C002,Jane Smith,+1987654321,Medicine_229,14,As needed,2025-12-08
+ORD219,C008,Frank White,+1888999000,Tolterodine,17,1 every 8 hours,2025-11-22
+ORD220,C006,David Miller,+1666777888,Medicine_285,21,1 per day,2025-11-28
+ORD221,C006,David Miller,+1666777888,Medicine_215,21,1 per day,2025-11-15
+ORD222,C005,Charlie Davis,+1444333222,Medicine_220,29,1 every 8 hours,2025-11-16
+ORD223,C003,Bob Wilson,+1122334455,Medicine_287,60,As needed,2025-12-31
+ORD224,C005,Charlie Davis,+1444333222,Medicine_160,22,As needed,2025-11-27
+ORD225,C007,Eva Green,+1777888999,Tamsulosin,58,1 per day,2025-12-13
+ORD226,C008,Frank White,+1888999000,Sertraline,47,1 per day,2025-12-13
+ORD227,C005,Charlie Davis,+1444333222,Amlodipine,20,As needed,2025-12-20
+ORD228,C008,Frank White,+1888999000,Medicine_129,39,1 every 8 hours,2025-12-26
+ORD229,C004,Alice Brown,+1555666777,Medicine_141,31,1 every 8 hours,2025-12-30
+ORD230,C009,Grace Lee,+1999000111,Medicine_178,59,1 every 8 hours,2025-12-31
+ORD231,C010,Henry Ford,+1000111222,Medicine_232,58,As needed,2025-12-31
+ORD232,C004,Alice Brown,+1555666777,Medicine_259,43,As needed,2026-01-02
+ORD233,C001,John Doe,+1234567890,Medicine_164,59,As needed,2025-11-12
+ORD234,C002,Jane Smith,+1987654321,Medicine_204,57,1 every 8 hours,2025-11-06
+ORD235,C007,Eva Green,+1777888999,Furosemide,38,As needed,2026-01-01
+ORD236,C006,David Miller,+1666777888,Medicine_211,50,1 every 8 hours,2025-12-20
+ORD237,C010,Henry Ford,+1000111222,Nitrofurantoin,24,As needed,2025-11-25
+ORD238,C008,Frank White,+1888999000,Medicine_223,32,2 per day,2026-01-02
+ORD239,C008,Frank White,+1888999000,Baclofen,14,1 every 8 hours,2025-12-07
+ORD240,C006,David Miller,+1666777888,Medicine_228,35,1 per day,2025-12-27
+ORD241,C002,Jane Smith,+1987654321,Medicine_240,45,As needed,2025-11-12
+ORD242,C008,Frank White,+1888999000,Celecoxib,36,1 per day,2025-12-05
+ORD243,C006,David Miller,+1666777888,Medicine_200,40,As needed,2025-12-31
+ORD244,C001,John Doe,+1234567890,Medicine_128,25,2 per day,2025-12-10
+ORD245,C007,Eva Green,+1777888999,Meloxicam,57,2 per day,2025-11-19
+ORD246,C003,Bob Wilson,+1122334455,Medicine_224,19,As needed,2025-12-20
+ORD247,C006,David Miller,+1666777888,Medicine_294,13,As needed,2025-12-18
+ORD248,C005,Charlie Davis,+1444333222,Losartan,27,1 per day,2025-11-12
+ORD249,C004,Alice Brown,+1555666777,Medicine_121,55,1 per day,2025-12-24
+ORD250,C010,Henry Ford,+1000111222,Medicine_187,36,As needed,2025-12-19
+ORD251,C006,David Miller,+1666777888,Medicine_298,49,1 per day,2025-12-09
+ORD252,C008,Frank White,+1888999000,Medicine_159,11,1 every 8 hours,2025-11-16
+ORD253,C001,John Doe,+1234567890,Digoxin,35,1 every 8 hours,2025-12-25
+ORD254,C001,John Doe,+1234567890,Ezetimibe,14,1 per day,2025-11-14
+ORD255,C009,Grace Lee,+1999000111,Buspirone,29,2 per day,2025-12-06
+ORD256,C004,Alice Brown,+1555666777,Medicine_235,20,1 every 8 hours,2025-12-25
+ORD257,C007,Eva Green,+1777888999,Medicine_228,34,1 per day,2025-12-30
+ORD258,C005,Charlie Davis,+1444333222,Medicine_177,43,1 per day,2025-11-05
+ORD259,C004,Alice Brown,+1555666777,Medicine_193,22,1 per day,2025-11-29
+ORD260,C002,Jane Smith,+1987654321,Medicine_146,55,2 per day,2025-11-16
+ORD261,C007,Eva Green,+1777888999,Medicine_224,25,2 per day,2026-01-03
+ORD262,C002,Jane Smith,+1987654321,Medicine_170,28,1 per day,2025-12-25
+ORD263,C005,Charlie Davis,+1444333222,Medicine_139,44,As needed,2025-12-16
+ORD264,C010,Henry Ford,+1000111222,Medicine_217,34,1 every 8 hours,2025-12-27
+ORD265,C004,Alice Brown,+1555666777,Medicine_172,26,2 per day,2025-11-24
+ORD266,C010,Henry Ford,+1000111222,Medicine_271,46,As needed,2025-11-11
+ORD267,C002,Jane Smith,+1987654321,Medicine_264,33,1 per day,2025-12-25
+ORD268,C002,Jane Smith,+1987654321,Medicine_120,47,1 every 8 hours,2025-12-19
+ORD269,C005,Charlie Davis,+1444333222,Medicine_118,46,As needed,2025-11-15
+ORD270,C008,Frank White,+1888999000,Medicine_144,30,1 every 8 hours,2025-12-06
+ORD271,C009,Grace Lee,+1999000111,Topiramate,49,2 per day,2025-12-23
+ORD272,C010,Henry Ford,+1000111222,Medicine_278,18,2 per day,2025-11-20
+ORD273,C010,Henry Ford,+1000111222,Montelukast,53,As needed,2025-11-18
+ORD274,C006,David Miller,+1666777888,Paracetamol,25,1 per day,2025-11-15
+ORD275,C010,Henry Ford,+1000111222,Medicine_268,37,1 every 8 hours,2026-01-01
+ORD276,C009,Grace Lee,+1999000111,Medicine_172,29,1 every 8 hours,2025-11-30
+ORD277,C007,Eva Green,+1777888999,Medicine_204,51,1 every 8 hours,2025-12-30
+ORD278,C004,Alice Brown,+1555666777,Medicine_285,18,1 per day,2025-11-15
+ORD279,C010,Henry Ford,+1000111222,Medicine_287,58,As needed,2026-01-04
+ORD280,C004,Alice Brown,+1555666777,Simvastatin,44,1 per day,2025-12-05
+ORD281,C007,Eva Green,+1777888999,Medicine_128,51,2 per day,2025-12-05
+ORD282,C004,Alice Brown,+1555666777,Medicine_293,26,As needed,2025-12-29
+ORD283,C010,Henry Ford,+1000111222,Medicine_121,23,As needed,2025-11-21
+ORD284,C001,John Doe,+1234567890,Medicine_186,22,1 per day,2025-11-10
+ORD285,C005,Charlie Davis,+1444333222,Propranolol,37,1 every 8 hours,2025-12-14
+ORD286,C002,Jane Smith,+1987654321,Medicine_199,19,1 per day,2025-12-16
+ORD287,C004,Alice Brown,+1555666777,Furosemide,51,2 per day,2025-12-15
+ORD288,C008,Frank White,+1888999000,Medicine_236,49,2 per day,2025-11-30
+ORD289,C004,Alice Brown,+1555666777,Medicine_211,48,1 every 8 hours,2025-12-04
+ORD290,C005,Charlie Davis,+1444333222,Medicine_125,29,1 every 8 hours,2025-11-05
+ORD291,C009,Grace Lee,+1999000111,Medicine_137,29,As needed,2025-12-06
+ORD292,C003,Bob Wilson,+1122334455,Medicine_185,21,As needed,2025-11-08
+ORD293,C006,David Miller,+1666777888,Medicine_151,35,1 per day,2025-11-10
+ORD294,C001,John Doe,+1234567890,Dextroamphetamine,21,2 per day,2025-12-17
+ORD295,C004,Alice Brown,+1555666777,Medicine_208,19,1 every 8 hours,2025-12-07
+ORD296,C005,Charlie Davis,+1444333222,Medicine_289,22,As needed,2025-11-15
+ORD297,C001,John Doe,+1234567890,Buspirone,29,As needed,2025-11-22
+ORD298,C008,Frank White,+1888999000,Latanoprost,11,2 per day,2025-11-27
+ORD299,C003,Bob Wilson,+1122334455,Medicine_104,20,As needed,2025-12-09
+ORD300,C002,Jane Smith,+1987654321,Medicine_226,10,1 per day,2025-11-13
+ORD301,C005,Charlie Davis,+1444333222,Medicine_146,31,2 per day,2025-12-18
