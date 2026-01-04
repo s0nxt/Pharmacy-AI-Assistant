@@ -68,10 +68,6 @@ function App() {
       const botMsg = { role: 'bot', content: res.data.response };
       setMessages(prev => [...prev, botMsg]);
       
-      // Text to Speech
-      const utterance = new SpeechSynthesisUtterance(res.data.response);
-      window.speechSynthesis.speak(utterance);
-
       fetchDashboardData(); // Update inventory after potential order
     } catch (err) {
       setMessages(prev => [...prev, { role: 'bot', content: 'Sorry, I encountered an error. Please try again later.' }]);
